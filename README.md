@@ -1,2 +1,2 @@
-# git-course-test
+# mi-proyect
 Mi proyecto con Gift
